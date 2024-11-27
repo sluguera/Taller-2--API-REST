@@ -1,0 +1,60 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+
+# Archivos y directorios de configuración local
+*.env
+*.local
+*.DS_Store
+.idea/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+
+# Archivos de caché
+*.cache
+*.egg-info/
+.eggs/
+
+# Paquetes de Python compilados
+*.py[cod]
+*$py.class
+
+# Archivos generados por herramientas de pruebas
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+.nox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Archivos de despliegue
+*.pot
+*.mo
+*.po
+
+# Archivos específicos de sistemas operativos
+Thumbs.db
+.DS_Store
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*.swn
+
+# Configuración específica de PyCharm
+.idea/
+
+# Configuración específica de VSCode
+.vscode/
